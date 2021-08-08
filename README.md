@@ -3,12 +3,11 @@
 Scopsi è nato come un aiuto per le persone alle prime armi  con la shell linux.
 <br>
 #  Quali sistemi operativi supporta Scopsy-shell?
-***
 Scopsy-shell è stato creato per sistemi operativi a base debian, quindi:
 Debian, ubuntu, kali linux, linux mint, ecc...
 
 # Come installare Scopsy-shell?
-***
+<br>
 Per installare Scopsy-shell prima bisogna installare i repository:
 ```
 git clone https://github.com/Ethical-Hacking-Italia/Scopsy-shell.git
