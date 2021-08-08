@@ -1,10 +1,11 @@
 # Scopsy-shell
 <br>
 Scopsi è nato come un aiuto per le persone alle prime armi  con la shell linux.
+
+# Quali sistemi operativi supporta Scopsy-shell?
 <br>
-#  Quali sistemi operativi supporta Scopsy-shell?
-Scopsy-shell è stato creato per sistemi operativi a base debian, quindi:
-Debian, ubuntu, kali linux, linux mint, ecc...
+Scopsy-shell è stato creato per sistemi operativi Debian-based, quindi:
+Debian, Ubuntu, Deepin, Linux Mint, Kali Linux, Parrot OS ecc...
 
 # Come installare Scopsy-shell?
 <br>
