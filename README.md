@@ -10,20 +10,26 @@ Debian, Ubuntu, Deepin, Linux Mint, Kali Linux, Parrot OS ecc...
 # Come installare Scopsy-shell?
 <br>
 Per installare Scopsy-shell prima bisogna installare i repository:
+
 ```
 git clone https://github.com/Ethical-Hacking-Italia/Scopsy-shell.git
 ```
+
 Dopo di chè si va ad instare l'installer:
+
 ```
 cd Scopsy-shell
 cd Scopsy
 bash installer.sh
 chmod +x Scopsy_shell.sh
 ```
+
 Ed in fine avviamo il programma:
+
 ```
 ./Scopsy_shell.sh
 ```
+
 # Cosè "Ethical Hacking Italia?"
 <br>
 Noi siamo un gruppo di persone che ci tiene ad insegnare alle persone, sia alle prime mani che non, l'arte dell'informatica, in molti dei suoi aspetti:
