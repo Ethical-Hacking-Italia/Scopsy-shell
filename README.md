@@ -35,7 +35,7 @@ Ed in fine avviamo il programma:
 Noi siamo un gruppo di persone che ci tiene ad insegnare alle persone, sia alle prime mani che non, l'arte dell'informatica, in molti dei suoi aspetti:
 l'hacking, la cyber security, il coding e molto altro!!!
 <br>
-Le lezioni sono completamente gratuite, senza inscrizione o altro, le lezioni verranno svolte sul nostro gruppo discord: https://discord.com/invite/9Ntc5v4 
+Le lezioni sono completamente gratuite, senza inscrizione o altro, le lezioni verranno svolte sul nostro gruppo discord: https://discord.gg/v8bXem9pmr
 <br>
 Fai anche un salto nel nostro account instagram! <a href="https://www.instagram.com/ethical_hacking_italia/">@ethical_hacking_italia</a>
 <br>
